@@ -1,0 +1,58 @@
+.overview {
+  position: relative;
+  height: 25vh;
+  background-color: rgb(245, 245, 245);
+}
+
+.overview__container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.overview__sum {
+  text-align: center;
+  font-size: 60px;
+}
+
+.overview__inc,
+.overview__exp {
+  font-size: 80%;
+  font-weight: 300;
+  width: 300px;
+  color: #fff;
+  padding: 10px;
+  margin-bottom: 30px;
+
+  display: flex;
+}
+
+.overview__inc {
+  background-color: #1abc9c;
+}
+
+.overview__exp {
+  background-color: #ed7669;
+}
+
+.overview__inc-value,
+.overview__exp-value {
+  flex: 1;
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.overview__inc--per,
+.overview__exp--per {
+  flex: 0 0 40px;
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.overview__exp--per {
+  font-size: 20%;
+}
