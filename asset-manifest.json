@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/budgety-by-React/static/css/main.8d195ce3.chunk.css",
+    "main.js": "/budgety-by-React/static/js/main.4ab60b90.chunk.js",
+    "main.js.map": "/budgety-by-React/static/js/main.4ab60b90.chunk.js.map",
+    "runtime-main.js": "/budgety-by-React/static/js/runtime-main.00d75dda.js",
+    "runtime-main.js.map": "/budgety-by-React/static/js/runtime-main.00d75dda.js.map",
+    "static/js/2.02c54d7b.chunk.js": "/budgety-by-React/static/js/2.02c54d7b.chunk.js",
+    "static/js/2.02c54d7b.chunk.js.map": "/budgety-by-React/static/js/2.02c54d7b.chunk.js.map",
+    "index.html": "/budgety-by-React/index.html",
+    "precache-manifest.4a6514a4dab592577e26c0a45a45ec31.js": "/budgety-by-React/precache-manifest.4a6514a4dab592577e26c0a45a45ec31.js",
+    "service-worker.js": "/budgety-by-React/service-worker.js",
+    "static/css/main.8d195ce3.chunk.css.map": "/budgety-by-React/static/css/main.8d195ce3.chunk.css.map",
+    "static/js/2.02c54d7b.chunk.js.LICENSE.txt": "/budgety-by-React/static/js/2.02c54d7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00d75dda.js",
+    "static/js/2.02c54d7b.chunk.js",
+    "static/css/main.8d195ce3.chunk.css",
+    "static/js/main.4ab60b90.chunk.js"
+  ]
+}
